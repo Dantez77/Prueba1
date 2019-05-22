@@ -4,5 +4,7 @@ main(){
   cout<<"Hello World!"<<endl;
   cout<<"Hola Mundo!"<<endl;
   cout<<"Letras y mas letras"<<endl;
+  cout<<"Ni Hao Shijie!"<<endl;
+
   return 0;
 }
